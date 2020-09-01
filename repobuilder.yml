@@ -1,0 +1,27 @@
+packages:
+  vimc/orderly@master: ~
+  vimc/vaultr@master: ~
+  vimc/orderlyweb: ~
+  vimc/orderly.rstudio: ~
+  vimc/orderly.sharepoint: ~
+
+  reconhub/projections@release: ~
+  annecori/EpiEstim@release: ~
+  mrc-ide/sircovid@1bd9719a140fed14fc1009cc90d25488a9743f8f: ~
+  mrc-ide/dde: ~
+  mrc-ide/squire: ~
+  mrc-ide/odin.js: ~
+  mrc-ide/odin: ~
+
+  reside-ic/pointr: ~
+  richfitz/sowsear: ~
+  mrc-ide/pika: ~
+  reside-ic/fstorr: ~
+
+  mrc-ide/hermione: ~
+  ImperialCollegeLondon/epidemia@6e5c800: ~
+
+  mrc-ide/dust: ~
+  mrc-ide/mcstate: ~
+  mrc-ide/odin.dust: ~
+  mrc-ide/sircovid2: ~
