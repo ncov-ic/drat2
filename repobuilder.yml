@@ -6,6 +6,7 @@ packages:
   vimc/orderly.sharepoint: ~
 
   reconhub/projections@release: ~
+
   mrc-ide/sircovid@1bd9719a140fed14fc1009cc90d25488a9743f8f: ~
   mrc-ide/dde: ~
   mrc-ide/squire: ~
